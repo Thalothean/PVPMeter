@@ -731,7 +731,7 @@
 			
 			
 				<Label name="LabelLoose" width="10" height="25" font="ZoFontHeader2"  color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL"
-					  horizontalAlignment="CENTER" verticalAlignment="LEFT" text="Lose :" >
+					  horizontalAlignment="CENTER" verticalAlignment="LEFT" text="Loose :" >
 				  <Anchor point="MIDDLERIGHT" relativeTo="$(parent)" relativePoint="MIDDLERIGHT" offsetX="112" offsetY="120"/>
 				</Label>
 				<Label name="LabelLooseValue" width="10" height="25" font="ZoFontHeader2"  color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_SELECTED"
@@ -1285,7 +1285,7 @@
 			
 			
 				<Label name="LabelLooseDuel" width="10" height="25" font="ZoFontHeader2"  color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL"
-					  horizontalAlignment="CENTER" verticalAlignment="LEFT" text="Lose :" >
+					  horizontalAlignment="CENTER" verticalAlignment="LEFT" text="Loose :" >
 				  <Anchor point="MIDDLERIGHT" relativeTo="$(parent)" relativePoint="MIDDLERIGHT" offsetX="202" offsetY="120"/>
 				</Label>
 				<Label name="LabelLooseValueDuel" width="10" height="25" font="ZoFontHeader2"  color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_SELECTED"
